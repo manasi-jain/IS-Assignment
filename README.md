@@ -1,6 +1,3 @@
-# IS-Assignment
-Contains video solutions of first, second, third &amp; fourth internals along with end sem video solution &amp; key area ppt video
-
 # Test - 1 Solution
 [![IS-Assignment](https://img.youtube.com/vi/KSebsqYg0jQ/0.jpg)](https://www.youtube.com/watch?v=KSebsqYg0jQ)
 
